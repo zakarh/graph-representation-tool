@@ -1,7 +1,7 @@
 # graph-representation-tool
 GRT is a Graph Representation Tool for quickly building graphs locally.
 
-Three implementations where built that using the following backends:
+Three implementations where built that use the following backends:
 - SQLite
 - OS Filesystem
 - File Based Partitions
